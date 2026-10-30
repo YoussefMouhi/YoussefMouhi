@@ -66,4 +66,3 @@ I value **clear problem definitions**, reproducible experiments, transparent eva
 
 ---
 
-**Explore:** [All projects](https://github.com/YoussefMouhi?tab=repositories) · [MLflowOps](https://github.com/YoussefMouhi/MLflowOps) · [DocMind AI](https://github.com/YoussefMouhi/DocMind-AI)
